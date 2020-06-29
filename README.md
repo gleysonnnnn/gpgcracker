@@ -1,2 +1,2 @@
 # gpgcracker
-Script em shell para testes de força bruta em arquivos criptografados com o GNU Privacy Guard (GPG)
+Shell script for brute force testing of files encrypted with GNU Privacy Guard (GPG)
