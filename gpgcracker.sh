@@ -11,7 +11,7 @@ while read pass; do
         gpg --batch --yes --passphrase "$pass" "$1" &> /dev/null
         if [ "$?" == 0 ]; then
                 echo
-                echo "SUCESS - $pass"
+                echo "SUCCESS - $pass"
                 echo
                 break
         else
